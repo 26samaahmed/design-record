@@ -1,2 +1,1 @@
-# mydesign-gallery
-a gallery website with all my designs using figma;)
+### a small design gallery to showcase some fun things i worked on using figma 🤍
