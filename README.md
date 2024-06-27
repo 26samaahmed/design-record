@@ -1,3 +1,5 @@
 ### a small design gallery to showcase some fun things i worked on using figma 🤍
 
-<img width="1440" alt="Screenshot 2024-06-21 at 3 35 08 PM" src="https://github.com/26samaahmed/design-record/assets/111910374/0d00b78f-5ce9-4bf8-9927-e61ae683de87">
+<img width="1440" alt="Screenshot 2024-06-27 at 8 33 26 AM" src="https://github.com/26samaahmed/design-record/assets/111910374/f7ae3498-0108-48e7-98d7-d85416a03fe7">
+
+made with 💚 by sama ahmed
